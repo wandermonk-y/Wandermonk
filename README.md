@@ -67,8 +67,7 @@
 <h3>SKILLS</h3>
 
 
-<table cellspacing ="10">
-    <tr>
+<table cellspacing ="10"><tr>
     <td> SPORTS MAN</td>
     <td>🌟🌟🌟🌟</td>
    <td>JAVA PROGRAMMER</td>
