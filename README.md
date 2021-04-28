@@ -7,6 +7,7 @@
   </head>
   <body>
     <table cellspacing = "40">
+     <tr>
       <td>
         <img src="C:\Users\Yash\Downloads\circle-cropped (1).png"  , alt ="STRONG AS A MOUNTAIN" >
       </td>
@@ -14,6 +15,7 @@
         <p><em>Founder of <strong>Wandermonk</strong> the company</em></p>
         <p> <em> Myself  YASH SHARMA   currently a student .  I will be pursuing my Bsc in <strong> <a href="https://futurestudents.yorku.ca/program/computer-science"> COMPUTER SCIENCE</a></strong> </em>💻 form York University
         </p></td>
+      </tr>
     </table>
     
 
