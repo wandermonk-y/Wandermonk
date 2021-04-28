@@ -94,4 +94,4 @@
 <br>
 <a href="Contact.html"> MY CONTACT DETAILS</a>
   </body>
-</html
+</html>
