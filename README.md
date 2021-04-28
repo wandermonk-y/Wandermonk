@@ -71,8 +71,7 @@
     <tr>
     <td> SPORTS MAN</td>
     <td>🌟🌟🌟🌟</td>
-    
-    <td>JAVA PROGRAMMER</td>
+   <td>JAVA PROGRAMMER</td>
     <td>🌟🌟🌟</td>
   </tr>
   <tr>
