@@ -79,8 +79,7 @@
   <tr>
     <td>HTML PROGRAMMER</td>
     <td>🌟🌟🌟</td>
-    
-    <td>PYTHON PROGRAMMER</td>
+   <td>PYTHON PROGRAMMER</td>
     <td>🌟</td>
   </tr>
   
