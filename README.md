@@ -9,7 +9,7 @@
     <table cellspacing = "40">
      <tr>
       <td>
-        <img src="C:\Users\Yash\Downloads\circle-cropped (1).png"  , alt ="STRONG AS A MOUNTAIN" >
+        <img src="circle-cropped (1).png"  , alt ="STRONG AS A MOUNTAIN" >
       </td>
       <td><h1 > <strong>YASH SHARMA</strong> </h1 >
         <p><em>Founder of <strong>Wandermonk</strong> the company</em></p>
